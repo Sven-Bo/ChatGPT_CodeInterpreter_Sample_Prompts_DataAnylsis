@@ -36,11 +36,11 @@ This document provides a set of generic question prompts that can be used with t
 
 ## Advanced Analysis
 
-1. `Predict the outcome of variable Y using other variables.`
-2. `Identify patterns or trends in the dataset.`
-3. `Group similar records based on selected features.`
-4. `Find anomalies in the data.`
-5. `Identify which factors influence a specific outcome.`
+1. `Predict the outcome based on the available data.`
+2. `Identify any patterns or trends within the data.`
+3. `Group similar data points together.`
+4. `Detect any anomalies or outliers in the data.`
+5. `Determine the key influencing factors for a specific outcome.`
 
 ## Recommendations and Insights
 
